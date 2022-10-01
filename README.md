@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Justice Merrick</h1>
 <h3 align="center">A passionate Full-stack Software Engineer from Malawi</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justicemerrick&label=Profile%20views&color=0e75b6&style=flat" alt="justicemerrick" /> </p>
 
 - 🔭 I’m currently working on **My new portifolio**
