@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Justicemer@gmail.com**
 
-- ⚡ Fun fact **There are no facts, just widely agreed opinions**
+- ⚡ Fun fact **Smart choices, positive thinking and working hard is the right way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
